@@ -11,5 +11,5 @@ Hard skills: *Git - GitHub *Markdown *HTML *CSS *JavaScript *Java *Selenium
 
    ° ✉️ You can contact me at niyazcoskun@gmail.com
 
-   ° 🧠 I'm learning Java...
+   ° 🧠 I'm learning CyPress...
 
