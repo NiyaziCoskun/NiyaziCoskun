@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NiyaziCoskun
 
-I'm a self-motivated, ambitious Software Developer, always looking for the next challenge. I enjoy bringing high value to a team and am always 
-eager to learn and use the latest technology to deliver creative solutions to modern problems.
+I am a self-motivated, ambitious Software Developer and Software Tester, always looking for the next challenge. I enjoy bringing high value to a team and am always eager to learn and use the latest technology to provide creative solutions to modern problems.
 
 Soft skills: *Creavity *Leadership *Teamwork
 
