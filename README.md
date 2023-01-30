@@ -8,7 +8,7 @@ Hard skills: *Git - GitHub *Markdown *HTML *CSS *JavaScript *Java *Selenium
 
    ° 🌍 I'm based in NRW, Germany
 
-   ° ✉️ You can contact me at niyazcoskun@gmail.com
+   ° ✉️ You can contact me at niyazcoskun@gmail.com / n.coskun06@web.de
 
    ° 🧠 I'm learning CyPress...
 
