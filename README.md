@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cypress, Python**
 
-- 💬 Ask me about **Frontend-Backend-- UI,API,DB Testing**
+- 💬 Ask me about **Frontend(Javascript)-Backend(Nodejs)-- UI,API,DB Testing**
 
 - 📫 How to reach me **n.coskun06@web.de**
 
