@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **.Hypnotes, UrbanicFarm2**
 
-- 🌱 I’m currently learning **Cypress, Python**
+- 🌱 I’m currently learning **Cypress, Python, C#**
 
-- 💬 Ask me about **Frontend(Javascript)-Backend(Nodejs)-- UI,API,DB Testing**
+- 💬 Ask me about **Frontend(Javascript)-Backend(Nodejs)-- UI-API-DB Testing**
 
 - 📫 How to reach me **n.coskun06@web.de**
 
