@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyazicoskun" alt="niyazicoskun" /></a> </p>
 
-- 🔭 I’m currently working on **.Hypnotes, UrbanicFarm, Hyrai.com**
+- 🔭 I’m currently working on **.Hypnotes, UrbanicFarm, Hyrai.com, Compass24**
 
 - 🌱 I’m currently learning **Cypress, Python, C#**
 
 - 💬 Ask me about **Frontend(Javascript)-Backend(Nodejs)-- UI-API-DB Testing**
 
-- 📫 How to reach me **n.coskun06@web.de**
+- 📫 How to reach me **n.coskun06@web.de, niyazcoskun@gmail.com**
 
 - ⚡ Fun fact **I think I am "Creativity, Leadership, Teamwork..."**
 
