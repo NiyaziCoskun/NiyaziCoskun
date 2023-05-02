@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **.Hypnotes, UrbanicFarm, Hyrai.com, Compass24**
 
-- 🌱 I’m currently learning **Cypress, Python, C#**
+- 🌱 I’m currently learning **Cypress, Python, C#, TestCafe, GitLab**
 
 - 💬 Ask me about **Frontend(Javascript)-Backend(Nodejs)-- UI-API-DB Testing**
 
