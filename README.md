@@ -2,7 +2,7 @@
 [![MasterHead](https://camo.githubusercontent.com/25eac3b6a48df9b23361192995aa6b8600d00ac8d75030171d59974ce3beb47c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f696e736f6c6974756d2f636f756e742e737667)](https://niyazicoskun.io)
 
 <h1 align="center">Hi 👋, I'm Niyaz Coskun</h1>
-<h3 align="center">A passionate frontend developer and Software Tester from Germany</h3>
+<h3 align="center">A passionate Frontend Developer(JavaScript-Nodejs) and Software Tester(Cypress) from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyazicoskun&label=Profile%20views&color=0e75b6&style=flat" alt="niyazicoskun" /> </p>
