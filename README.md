@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cypress, Python, C#, TestCafe, GitLab**
 
-- 💬 Ask me about **Frontend(Javascript)-Backend(Nodejs)-- UI-API-DB Testing**
+- 💬 Ask me about **Frontend(Javascript)-Backend(Nodejs)-SAP(E-Commerce)- UI-API-DB Testing**
 
 - 📫 How to reach me **n.coskun06@web.de, niyazcoskun@gmail.com**
 
