@@ -19,8 +19,6 @@
 
 - ⚡ Fun fact **I think I am "Creativity, Leadership, Teamwork and Flexible..."**
 
-- 📫 How to reach me **n.coskun06@web.de, niyazcoskun@gmail.com**
-
 - **what a lovely day today**
 - **Always open to job offers**
 
