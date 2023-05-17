@@ -22,6 +22,7 @@
 - 📫 How to reach me **n.coskun06@web.de, niyazcoskun@gmail.com**
 
 - **what a lovely day today**
+- **Always open to job offers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
