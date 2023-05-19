@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **.Hypnotes, UrbanicFarm, Hyrai.com, Compass24, SQLI Test Engineer**
 
-- 🌱 I’m currently learning **Cypress, Python, C#, TestCafe, GitLab, SAP-ABAP**
+- 🌱 I’m currently learning **Cypress, Python, C#, TestCafe, GitLab, SAP-E Commerce**
 
 - 💬 Ask me about **Frontend(Javascript)-Backend(Nodejs)-SAP(E-Commerce)- UI-API-DB Testing**
 
