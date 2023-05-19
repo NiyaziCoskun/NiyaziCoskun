@@ -21,7 +21,7 @@
 
 - **What a lovely day today**
 - **Always open to job offers**
-- **I can work it in an English or German speaking team
+- **I can work it in an English or German speaking team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
