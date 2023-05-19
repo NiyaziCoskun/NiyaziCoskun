@@ -19,8 +19,9 @@
 
 - ⚡ Fun fact **I think I am "Creativity, Leadership, Teamwork and Flexible..."**
 
-- **what a lovely day today**
+- **What a lovely day today**
 - **Always open to job offers**
+- **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
