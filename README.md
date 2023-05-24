@@ -23,7 +23,6 @@
 - **Always open to job offers**
 - **I can work it in an English or German speaking team**
 - **I would like to say to those who ask about my goal; After 5 years, I would like to work either as a Test Manager or as a Mobile Senior tester.**
-- **jdfgkljdfohfd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
