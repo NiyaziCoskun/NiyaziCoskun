@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am "Creativity, Leadership, Teamwork and Flexible..."**
 
-- **What a lovely day!!!**'
+- **What a lovely day!!!**
 - **Always open to job offers**
 - **I can work it in an English or German speaking team**
 - **I would like to say to those who ask about my goal; After 5 years, I would like to work either as a Test Manager or as a Mobile Senior tester.**
